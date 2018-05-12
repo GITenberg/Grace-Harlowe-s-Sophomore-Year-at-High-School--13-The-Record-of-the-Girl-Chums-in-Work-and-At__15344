@@ -1,0 +1,35 @@
+_repo: Grace-Harlowe-s-Sophomore-Year-at-High-School--13-The-Record-of-the-Girl-Chums-in-Work-and-At__15344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Flower, Jessie Graham
+    - Thompson, Ames
+    - Gordon, Grace
+    - Lester, Pauline
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- School Stories
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+title: "Grace Harlowe's Sophomore Year at High School\r\nThe Record of the Girl Chums\
+  \ in Work and Athletics"
+url: http://www.gutenberg.org/ebooks/15344
